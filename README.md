@@ -30,7 +30,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdo286&theme=dracula" alt="GitHub Streak" />
 </p>
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdo286&show_icons=true&theme=dracula" alt="GitHub Stats" style="flex: 1; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo286&layout=compact&theme=dracula" alt="Top Languages" style="flex: 1; height: 200px;" />
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo286&show_icons=true&theme=dracula" alt="GitHub Stats" style="height: 200px; margin: 0 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo286&layout=compact&theme=dracula" alt="Top Languages" style="height: 200px; margin: 0 10px;" />
 </div>
