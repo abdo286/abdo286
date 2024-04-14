@@ -29,13 +29,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdo286&theme=dracula" alt="GitHub Streak" />
 </p>
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo286&show_icons=true&theme=dracula" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo286&layout=compact&theme=dracula" alt="Top Languages" width="45%" />
+</div>
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdo286&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
-
-### Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo286&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
