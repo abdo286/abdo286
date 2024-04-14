@@ -1,4 +1,4 @@
-
+<h1 style="color:red;">War</h1>
 #### About Me
 - 🏫 I'm a Frontend Developer.
 - 🔭 I’m currently working on [slangify](https://github.com/abdo286)
@@ -30,16 +30,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdo286&theme=dracula" alt="GitHub Streak" />
 </p>
 
-<div style="display: grid; grid-template-columns: 50fr 50fr;justify-content:center;align-items:center; grid-template-rows:1fr;gap:0; ">
- <div >
-    <p align="center" style="width:100%;height:100%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=abdo286&show_icons=true&theme=dracula" alt="GitHub Stats" />
-    </p>
-  </div>
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo286&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p>
 
-  <div>
-    <p align="center" style="width:100%;height:100%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo286&layout=compact&theme=dracula" alt="Top Languages" />
-    </p>
-  </div>
-</div>
+### Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo286&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
