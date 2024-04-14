@@ -1,4 +1,3 @@
-<h1 style="color:red;">War</h1>
 #### About Me
 - 🏫 I'm a Frontend Developer.
 - 🔭 I’m currently working on [slangify](https://github.com/abdo286)
