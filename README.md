@@ -1,4 +1,3 @@
-<div align="center">
 
 #### About Me
 - 🏫 I'm a Frontend Developer.
