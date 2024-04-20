@@ -31,9 +31,10 @@
 </div>
 
 ### Github Stats 
-<div style="display: flex; justify-content: center; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdo286&theme=dracula" alt="GitHub Streak" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdo286&show_icons=true&theme=dracula" alt="GitHub Stats" style="height: 200px; margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo286&layout=compact&theme=dracula" alt="Top Languages" style="height: 200px;" />
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-bottom: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdo286&theme=dracula" alt="GitHub Streak" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo286&show_icons=true&theme=dracula" alt="GitHub Stats" style="height: 200px; margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo286&layout=compact&theme=dracula" alt="Top Languages" style="height: 200px; margin-bottom: 20px;" />
 </div>
+
 
