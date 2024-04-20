@@ -31,7 +31,7 @@
 
 
 ### Github Stats 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-bottom: 20px; gap: 8px;">
+<div align="center">
   <p style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdo286&theme=dracula" alt="GitHub Streak" style="margin-bottom: 20px;" />
   </p>
